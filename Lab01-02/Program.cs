@@ -113,7 +113,6 @@ namespace Lab01_02
                 if (listPerson[i].Kind() == 2 && listPerson[i].PersonID == "CHN060286")
                 {
                     return i;
-                    break;
                 }
             }
             return 0;
