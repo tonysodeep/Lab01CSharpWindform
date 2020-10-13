@@ -1,0 +1,12 @@
+/Users/hynguyen/C# project/Lab01/Lab01-02/obj/Debug/netcoreapp3.1/Lab01-02.csprojAssemblyReference.cache
+/Users/hynguyen/C# project/Lab01/Lab01-02/obj/Debug/netcoreapp3.1/Lab01-02.AssemblyInfoInputs.cache
+/Users/hynguyen/C# project/Lab01/Lab01-02/obj/Debug/netcoreapp3.1/Lab01-02.AssemblyInfo.cs
+/Users/hynguyen/C# project/Lab01/Lab01-02/obj/Debug/netcoreapp3.1/Lab01-02.csproj.CoreCompileInputs.cache
+/Users/hynguyen/C# project/Lab01/Lab01-02/bin/Debug/netcoreapp3.1/Lab01-02.deps.json
+/Users/hynguyen/C# project/Lab01/Lab01-02/bin/Debug/netcoreapp3.1/Lab01-02.runtimeconfig.json
+/Users/hynguyen/C# project/Lab01/Lab01-02/bin/Debug/netcoreapp3.1/Lab01-02.runtimeconfig.dev.json
+/Users/hynguyen/C# project/Lab01/Lab01-02/bin/Debug/netcoreapp3.1/Lab01-02.dll
+/Users/hynguyen/C# project/Lab01/Lab01-02/bin/Debug/netcoreapp3.1/Lab01-02.pdb
+/Users/hynguyen/C# project/Lab01/Lab01-02/obj/Debug/netcoreapp3.1/Lab01-02.dll
+/Users/hynguyen/C# project/Lab01/Lab01-02/obj/Debug/netcoreapp3.1/Lab01-02.pdb
+/Users/hynguyen/C# project/Lab01/Lab01-02/obj/Debug/netcoreapp3.1/Lab01-02.genruntimeconfig.cache
