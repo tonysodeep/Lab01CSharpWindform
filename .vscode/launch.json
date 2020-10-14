@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Lab01/bin/Debug/netcoreapp3.1/Lab01.dll",
+            "program": "${workspaceFolder}/Lab01-04/bin/Debug/netcoreapp3.1/Lab01-04.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Lab01",
+            "cwd": "${workspaceFolder}/Lab01-04",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "externalTerminal",
             "stopAtEntry": false,

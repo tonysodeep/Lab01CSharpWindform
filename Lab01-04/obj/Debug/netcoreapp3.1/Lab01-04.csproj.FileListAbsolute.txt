@@ -1,0 +1,12 @@
+/Users/hynguyen/C# project/Lab01/Lab01-04/obj/Debug/netcoreapp3.1/Lab01-04.csprojAssemblyReference.cache
+/Users/hynguyen/C# project/Lab01/Lab01-04/obj/Debug/netcoreapp3.1/Lab01-04.AssemblyInfoInputs.cache
+/Users/hynguyen/C# project/Lab01/Lab01-04/obj/Debug/netcoreapp3.1/Lab01-04.AssemblyInfo.cs
+/Users/hynguyen/C# project/Lab01/Lab01-04/obj/Debug/netcoreapp3.1/Lab01-04.csproj.CoreCompileInputs.cache
+/Users/hynguyen/C# project/Lab01/Lab01-04/bin/Debug/netcoreapp3.1/Lab01-04.deps.json
+/Users/hynguyen/C# project/Lab01/Lab01-04/bin/Debug/netcoreapp3.1/Lab01-04.runtimeconfig.json
+/Users/hynguyen/C# project/Lab01/Lab01-04/bin/Debug/netcoreapp3.1/Lab01-04.runtimeconfig.dev.json
+/Users/hynguyen/C# project/Lab01/Lab01-04/bin/Debug/netcoreapp3.1/Lab01-04.dll
+/Users/hynguyen/C# project/Lab01/Lab01-04/bin/Debug/netcoreapp3.1/Lab01-04.pdb
+/Users/hynguyen/C# project/Lab01/Lab01-04/obj/Debug/netcoreapp3.1/Lab01-04.dll
+/Users/hynguyen/C# project/Lab01/Lab01-04/obj/Debug/netcoreapp3.1/Lab01-04.pdb
+/Users/hynguyen/C# project/Lab01/Lab01-04/obj/Debug/netcoreapp3.1/Lab01-04.genruntimeconfig.cache
